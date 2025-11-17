@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Usage (example)
-$ python movie_baseline.py \
+$ python movie_main.py \
     --train data/train.csv \
     --test data/test.csv \
     --sample data/sample.csv \
