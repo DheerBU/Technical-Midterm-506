@@ -39,7 +39,7 @@ We build an efficient and scalable model that:
 
 ---
 
-# 🏗️ Model Pipeline (In Depth)
+# 🏗️ Model Pipeline
 
 This project follows a robust classical ML pipeline tailored for massive text data.
 
@@ -167,4 +167,5 @@ Evaluation Metric:
 ### ✔ **Classification Accuracy**  
 Same metric used on Kaggle.
 
-Best validation accuracy achieved:
+Best validation accuracy achieved: 0.65634
+
