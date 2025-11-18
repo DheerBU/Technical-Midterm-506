@@ -113,8 +113,8 @@ Extracted from each review:
 * count(?)
 * ratio of uppercase letters
 * ratio of digits
-* # elongated words (“soooo”, “yessss”)
-* # sentences
+* elongated words (“soooo”, “yessss”)
+* sentences
 * small **positive/negative cue dictionaries**
 
   * captures sentiment polarity
