@@ -40,7 +40,7 @@ A more flexible and tuneable version supporting:
 
 ---
 
-# 📊 Data Science Workflow (Required Sections)
+# 📊 Data Science Workflow
 
 Below is a detailed explanation of everything done across both scripts, following the required six-step structure.
 
