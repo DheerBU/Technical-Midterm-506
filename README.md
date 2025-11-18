@@ -255,35 +255,6 @@ Given:
 
 Streaming across 1.7M rows × multiple epochs is slow.
 
-### **C. Hash Collisions**
-
-Even 1M features still allow some collisions.
-Would a hybrid hashed + subword vocabulary improve accuracy?
-Not permitted under the assignment rules.
-
-### **D. Limited Modeling Options**
-
-No:
-
-* Transformer models
-* RNNs
-* CNNs
-* XGBoost / LightGBM
-
-This caps achievable accuracy.
-
-### **E. No Use of Word Embeddings**
-
-Classical ML without embeddings limits semantic richness.
-(Still not allowed under assignment rules.)
-
-### **Future Ideas (Not Implemented Due to Rules)**
-
-* SVD-reduced hashed features
-* Linear SVM with warm-start
-* Hybrid hashed TF-IDF with subword weighting
-* Improved sentiment lexicons
-
 ---
 
 # 🚀 Running the Scripts
