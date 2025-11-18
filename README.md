@@ -132,11 +132,12 @@ A major gain in performance came from encoding:
 
 Formula:
 
-\[
+$$
 \mathrm{encoded\_value} = \frac{\mathrm{sum} + m \cdot \mathrm{global\_mean}}{\mathrm{count} + m}
-\]
+$$
 
 with smoothing $m = 50$ to avoid overfitting.
+
 
 This feature captures tendencies such as:
 
