@@ -132,9 +132,8 @@ A major gain in performance came from encoding:
 
 Formula:
 
-\[
-\text{encoded\_value} = \frac{\text{sum} + m \cdot \text{global\_mean}}{\text{count} + m}
-\]
+\(\text{encoded\_value} = \frac{\text{sum} + m \cdot \text{global\_mean}}{\text{count} + m}\)
+
 
 
 with smoothing `m = 50` to avoid overfitting.
